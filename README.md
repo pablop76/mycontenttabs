@@ -1,2 +1,2 @@
 # mycontenttabs
-Particle Gantry 5 based on the default particle added automatic tab switching function
+Particle - contenttabs Gantry 5. Added automatic tab switching function.
