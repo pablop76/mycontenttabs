@@ -72,4 +72,5 @@ form:
           placeholder: Enter your custom content here.
     copyright:
       type: separator.note
+      class: alert alert-success
       content: 'Tabs auto switch <strong>Version: 1.0.0</strong> by <a href="https://web-service.com.pl" target="_blank">web-service</a> | <a href="https://web-service.com.pl/dodanie-czastek-do-szablonu.html" target="_blank">Jak zainstalować wiecej cząstek do szablonu Gantry 5</a>'
